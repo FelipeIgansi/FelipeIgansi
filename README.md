@@ -5,7 +5,11 @@ FelipeIgansi/FelipeIgansi is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<div align="center">
+  <a href="https://github.com/FelipeIgansi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeIgansi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeIgansi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="FelipeIgansi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
