@@ -28,10 +28,11 @@ jobs:
           outputs: |
              dist/github-snake.svg
              dist/github-snake-dark.svg?palette=github-dark
+             dist/github-snake-dark.gif
           
           
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake-dark.svg
 
 
       - run: git status
