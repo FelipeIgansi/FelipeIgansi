@@ -55,4 +55,4 @@ You can click the Preview link to take a look at your changes.
   
   
   
-<!-- ![snake gif](https://github.com/FelipeIgansi/FelipeIgansi/blob/output/github-contribution-grid-snake.svg) -->
+ ![snake gif](https://github.com/FelipeIgansi/FelipeIgansi/blob/output/github-contribution-grid-snake-dark.svg) 
