@@ -21,7 +21,8 @@ You can click the Preview link to take a look at your changes.
 </div>
   
   ##
- 
+  If you want to see my link tree just click here <a href="https://linktr.ee/FeIgansi">LinkTree</a>
+ <!--
 <div> 
   <a href = "mailto:lipeigansi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipemigansi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -29,7 +30,7 @@ You can click the Preview link to take a look at your changes.
  
  
 </div>
-  
+  -->
   
   
   <picture>
@@ -54,4 +55,4 @@ You can click the Preview link to take a look at your changes.
   
   
   
- ![snake gif](https://github.com/FelipeIgansi/FelipeIgansi/blob/output/github-contribution-grid-snake-dark.svg) 
+<!-- ![snake gif](https://github.com/FelipeIgansi/FelipeIgansi/blob/output/github-contribution-grid-snake-dark.svg) -->
