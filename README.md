@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 </div>
   -->
   
-  
+  <!--
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
     src="https://github.com/FelipeIgansi/FelipeIgansi/blob/output/github-contribution-grid-snake.svg"
   />
 </picture>
-  
+  -->
   
   
   
