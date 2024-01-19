@@ -22,6 +22,13 @@ You can click the Preview link to take a look at your changes.
   
   ##
   If you want to see my link tree just click here <a href="https://linktr.ee/FeIgansi">LinkTree</a>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://github.com/FelipeIgansi/FelipeIgansi/blob/output/github-contribution-grid-snake-dark.svg)" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/FelipeIgansi/FelipeIgansi/blob/output/github-contribution-grid-snake-dark.svg)" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
  <!--
 <div> 
   <a href = "mailto:lipeigansi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
