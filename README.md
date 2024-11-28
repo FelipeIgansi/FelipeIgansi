@@ -39,7 +39,6 @@ You can click the Preview link to take a look at your changes.
 </div>
   -->
   
-  <!--
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -47,6 +46,7 @@ You can click the Preview link to take a look at your changes.
       https://github.com/FelipeIgansi/FelipeIgansi/blob/output/github-contribution-grid-snake-dark.svg
     "
   />
+   <!--
   <source
     media="(prefers-color-scheme: light)"
     srcset="
@@ -62,4 +62,4 @@ You can click the Preview link to take a look at your changes.
   
   
   
-<!-- ![snake gif](https://github.com/FelipeIgansi/FelipeIgansi/blob/output/github-contribution-grid-snake-dark.svg) -->
+ ![snake gif](https://github.com/FelipeIgansi/FelipeIgansi/blob/output/github-contribution-grid-snake-dark.svg) 
