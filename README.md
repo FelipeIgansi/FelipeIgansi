@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
   
 </div>
   
-  ##
-  If you want to see my link tree just click here <a href="https://linktr.ee/FeIgansi">LinkTree</a>
+  <!-- ##If you want to see my link tree just click here <a href="https://linktr.ee/FeIgansi">LinkTree</a>   -->
+
 
 
 <picture>
